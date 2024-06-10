@@ -1,0 +1,6 @@
+Dockerfile
+*.git
+dist
+docker-compose.yml
+node_modules/
+mysql-data/
